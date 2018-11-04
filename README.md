@@ -1,6 +1,6 @@
 # facilito-nuxt
 
-> Taller d
+> Taller de nuxt
 
 ## Build Setup
 
